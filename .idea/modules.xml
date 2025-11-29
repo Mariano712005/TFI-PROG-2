@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GestionJugadores/GestionJugadores.iml" filepath="$PROJECT_DIR$/GestionJugadores/GestionJugadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestionTurnosClinica/GestionTurnosClinica.iml" filepath="$PROJECT_DIR$/GestionTurnosClinica/GestionTurnosClinica.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TFI-Programacion2.iml" filepath="$PROJECT_DIR$/.idea/TFI-Programacion2.iml" />
     </modules>
   </component>
